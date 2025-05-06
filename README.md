@@ -8,7 +8,7 @@ Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ashraf-spscc/CIS269SP25.git
 
 # Navigate to the project directory
 cd your-repo-name
